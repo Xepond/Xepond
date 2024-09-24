@@ -14,17 +14,11 @@ Here are some of the projects I've worked on:
 ---
 
 ### 🌟 Open to Collaboration!
-I'm currently not actively working on any projects, but **I'm always open to collaborating on new and exciting projects**!  
-Feel free to reach out if you'd like to work together on something innovative.
-
-![Collaboration GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+I'm currently not actively working on any projects, but **I'm always open to collaborating on new and exciting projects**! Feel free to reach out if you'd like to work together on something innovative.
 
 ---
 
 ### 🛠️ Skills
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
 - **Languages**: Flutter, C++
 - **Technologies**: Mobile App Development, Object-Oriented Programming
 
@@ -36,9 +30,7 @@ When I'm not coding, I enjoy listening to and exploring different types of music
 ---
 
 ### 📫 Get in Touch
-Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/senin-linkedin-url) to discuss projects, collaborations, or just to say hi!
-
-![Profile Views](https://komarev.com/ghpvc/?username=senin-kullanici-adin&color=blue&style=flat-square)
+Feel free to connect with me on [LinkedIn](your-linkedin-url) to discuss projects, collaborations, or just to say hi!
 
 
 
