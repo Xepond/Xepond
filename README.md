@@ -5,11 +5,16 @@ I'm a Computer Engineering student with a passion for building applications and 
 
 ### 🚀 Projects
 Here are some of the projects I've worked on:
-- **Expense Tracker App**: A Flutter-based app to track your expenses and manage your budget effectively.
+- **Expense Tracker**: A Flutter-based app to track your expenses and manage your budget effectively.
 - **Quiz App**: A fun and interactive quiz application built with Flutter, featuring multiple question types and score tracking.
-- **Roll Dice App**: A simple Flutter app that simulates dice rolls for quick, random number generation.
+- **Roll Dice**: A simple Flutter app that simulates dice rolls for quick, random number generation.
 
-Currently, I'm not actively working on any projects but I'm always open to collaborations and new opportunities! 
+---
+
+### 🌟 Open to Collaboration!
+I'm currently not actively working on any projects, but **I'm always open to collaborating on new and exciting projects**! Feel free to reach out if you'd like to work together on something innovative.
+
+---
 
 ### 🛠️ Skills
 - **Languages**: Flutter, C++
@@ -20,6 +25,7 @@ When I'm not coding, I enjoy listening to and exploring different types of music
 
 ### 📫 Get in Touch
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sefepolat/) to discuss projects, collaborations, or just to say hi!
+
 
 
 <!---
