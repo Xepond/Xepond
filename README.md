@@ -3,6 +3,8 @@
 ### 💻 About Me
 I'm a Computer Engineering student with a passion for building applications and solving problems. I love coding and exploring new technologies, especially in mobile development and software engineering.
 
+---
+
 ### 🚀 Projects
 Here are some of the projects I've worked on:
 - **Expense Tracker**: A Flutter-based app to track your expenses and manage your budget effectively.
