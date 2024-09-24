@@ -20,8 +20,12 @@ I'm currently not actively working on any projects, but **I'm always open to col
 - **Languages**: Flutter, C++
 - **Technologies**: Mobile App Development, Object-Oriented Programming
 
+---
+
 ### 🎵 Hobbies
 When I'm not coding, I enjoy listening to and exploring different types of music.
+
+---
 
 ### 📫 Get in Touch
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sefepolat/) to discuss projects, collaborations, or just to say hi!
