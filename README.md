@@ -1,7 +1,7 @@
 # Hi there, I'm Efe! 👋
 
 ### 💻 About Me
-I'm a Computer Engineering student with a passion for building applications and solving problems. I love coding and exploring new technologies, especially in mobile development and software engineering.
+I'm a Computer Engineering student with a passion for building applications and solving problems. I love coding and exploring new technologies, especially in machine learning and deep learning.
 
 ---
 
@@ -20,7 +20,7 @@ I'm currently not actively working on any projects, but **I'm always open to col
 
 ### 🛠️ Skills
 - **Languages**: Flutter, C++
-- **Technologies**: Mobile App Development, Object-Oriented Programming
+- **Technologies**: Machine Learning, Deep Learning, Mobile App Development, Object-Oriented Programming
 
 ---
 
