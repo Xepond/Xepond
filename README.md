@@ -19,7 +19,7 @@ I'm currently not actively working on any projects, but **I'm always open to col
 ---
 
 ### 🛠️ Skills
-- **Languages**: Flutter, C++
+- **Languages**: C, C++, Python, Flutter
 - **Technologies**: Machine Learning, Deep Learning, Mobile App Development, Object-Oriented Programming
 
 ---
