@@ -7,9 +7,10 @@ I'm a Computer Engineering student with a passion for building applications and 
 
 ### 🚀 Projects
 Here are some of the projects I've worked on:
-- **Expense Tracker**: A Flutter-based app to track your expenses and manage your budget effectively.
+- **Federated Learning-Based LSTM for Vehicle SoC Prediction**: An LSTM-based AI model trained via a privacy-preserving Federated Learning approach to accurately predict the State of Charge (SoC) of vehicle batteries.
+- **Deep Learning-Based Fish Species Identification (TensorFlow/Keras)**: Development and performance analysis of a customized Deep Learning (TensorFlow/Keras) neural network model to accurately classify fish species using a large-scale image dataset.
 - **Quiz App**: A fun and interactive quiz application built with Flutter, featuring multiple question types and score tracking.
-- **Roll Dice**: A simple Flutter app that simulates dice rolls for quick, random number generation.
+- **Expense Tracker**: A Flutter-based app to track your expenses and manage your budget effectively.
 
 ---
 
@@ -19,7 +20,7 @@ I'm currently not actively working on any projects, but **I'm always open to col
 ---
 
 ### 🛠️ Skills
-- **Languages**: C, C++, Python, Flutter
+- **Languages**: C, C++, Python, C#, Flutter
 - **Technologies**: Machine Learning, Deep Learning, Mobile App Development, Object-Oriented Programming
 
 ---
